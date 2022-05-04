@@ -1,0 +1,34 @@
+_repo: Peculiar-A-Tale-of-the-Great-Transition_67872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sargent, Epes
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '32700'
+    url: http://www.gutenberg.org/2009/agents/32700
+    wikipedia: https://en.wikipedia.org/wiki/Epes_Sargent_(poet)
+description: ''
+gutenberg_issued: '2022-04-19'
+identifiers:
+  gutenberg: '67872'
+  lccn: 08001817
+language: en
+pgterms:marc904: https://archive.org/details/peculiartaleofgr00sarg/page/n5/mode/2up
+pgterms:marc905: 20200313071625sargent
+pgterms:marc906: '1863'
+pgterms:marc907: US
+production_note: KD Weeks, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :Carleton,1863.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+- GITenberg
+title: 'Peculiar: A Tale of the Great Transition'
+url: http://www.gutenberg.org/ebooks/67872
